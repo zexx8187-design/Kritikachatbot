@@ -1,0 +1,6 @@
+{
+  "name": "Kritika Bot Studio",
+  "description": "24/7 Telegram discussion group AI persona studio with OpenRouter brain, Hindi/Hinglish and English voice notes, GIFs, and message reactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
